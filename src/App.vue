@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark>
+    <v-app-bar app>
       <v-btn v-for="(btn, idx) in btns" :key="idx" text :to="btn.route">{{
         btn.name
       }}</v-btn>
