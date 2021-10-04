@@ -15,7 +15,7 @@
             class="iconContainer"
           >
             <v-img
-              :src="project.img"
+              :src="project.icon"
               :alt="project.name"
               class="rounded-lg"
             ></v-img>

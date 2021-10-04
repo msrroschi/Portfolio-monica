@@ -13,7 +13,6 @@ import laHistoriaEnElCuerpoDeUnaMujer12 from "../assets/la_historia_en_el_cuerpo
 import laHistoriaEnElCuerpoDeUnaMujer13 from "../assets/la_historia_en_el_cuerpo_de_la_mujer/31024_13.png";
 import laHistoriaEnElCuerpoDeUnaMujer14 from "../assets/la_historia_en_el_cuerpo_de_la_mujer/31024_14.png";
 import laHistoriaEnElCuerpoDeUnaMujer15 from "../assets/la_historia_en_el_cuerpo_de_la_mujer/31024_15.png";
-// import laHistoriaEnElCuerpoDeUnaMujer16 from "../assets/la_historia_en_el_cuerpo_de_la_mujer/31024_16.png";
 import laHistoriaEnElCuerpoDeUnaMujer17 from "../assets/la_historia_en_el_cuerpo_de_la_mujer/31024_17.png";
 import laHistoriaEnElCuerpoDeUnaMujer18 from "../assets/la_historia_en_el_cuerpo_de_la_mujer/31024_18.png";
 import laHistoriaEnElCuerpoDeUnaMujer19 from "../assets/la_historia_en_el_cuerpo_de_la_mujer/31024_19.png";
@@ -48,7 +47,6 @@ export const laHistoriaEnElCuerpoDeUnaMujer = [
   laHistoriaEnElCuerpoDeUnaMujer13,
   laHistoriaEnElCuerpoDeUnaMujer14,
   laHistoriaEnElCuerpoDeUnaMujer15,
-  // laHistoriaEnElCuerpoDeUnaMujer16,
   laHistoriaEnElCuerpoDeUnaMujer17,
   laHistoriaEnElCuerpoDeUnaMujer18,
   laHistoriaEnElCuerpoDeUnaMujer19,
