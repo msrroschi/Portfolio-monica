@@ -2,17 +2,18 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import Work from "../views/Work.vue";
 import Contact from "../views/Contact.vue";
+import Project from "../views/Project.vue";
 
 Vue.use(VueRouter);
 
 const routes = [
   {
-    path: "/",
+    path: "/work",
     name: "Work",
     component: Work,
   },
   {
-    path: "/aboutme",
+    path: "/",
     name: "About me",
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
@@ -24,6 +25,11 @@ const routes = [
     path: "/contact",
     name: "Contact",
     component: Contact,
+  },
+  {
+    path: "/project/:projectName",
+    name: "Project",
+    component: Project,
   },
 ];
 

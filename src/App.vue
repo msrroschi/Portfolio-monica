@@ -18,8 +18,8 @@ export default {
 
   data: () => ({
     btns: [
-      { name: "Work", route: "/" },
-      { name: "About me", route: "/aboutme" },
+      { name: "Work", route: "/work" },
+      { name: "About me", route: "/" },
       { name: "Contact", route: "/contact" },
     ],
   }),
