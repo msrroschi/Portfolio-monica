@@ -1,6 +1,8 @@
 <template>
   <v-card height="100%" class="d-flex flex-column">
-    <v-card-title class="justify-center"> <h1>Dimonica</h1> </v-card-title>
+    <v-card-title class="justify-center">
+      <h1>Monica Alemany i Esteve</h1>
+    </v-card-title>
     <v-container fill-height>
       <v-row class="projectRow">
         <v-col
