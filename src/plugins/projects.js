@@ -26,7 +26,7 @@ export const projects = [
   {
     name: "MUEBLES VAGABUNDOS",
     icon: MUEBLES_VAGABUNDOS,
-    imges: mueblesVagabundos,
+    images: mueblesVagabundos,
   },
   {
     name: "MI NEUROPATÍA",
