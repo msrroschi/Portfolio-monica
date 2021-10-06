@@ -5,8 +5,8 @@
         <v-card class="d-flex justify-center flex-column" flat>
           <v-img
             src="../assets/about me.png"
-            height="500px"
-            width="500px"
+            height="300px"
+            width="300px"
             class="align-self-center"
           ></v-img>
           <v-card-text class="text-h5">
